@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://images.prismic.io/tokyotreat/243d7a4742342b7a1ce8db2cd21d757ebd215a68_studio_ghibli_characters_by_ficklestix-d846q1x.jpg?auto=compress,format);
+}
+h1{
+display: flex;
+justify-content: center;
+background-color: darkgreen;
+opacity: .8;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    opacity: .8;
+    background-color: crimson;
+}
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+}
+.movies{
+    background-color: rgb(17, 182, 154);
+    opacity: .8;
+}
